@@ -1,7 +1,7 @@
 --[[
 //// PLEASE NOTE ////
 Not all country emojis are here because unicode artists havent made them yet.
-Thank you for attention.
+Thank you for your attention.
 ]]
 
 Countries = {
