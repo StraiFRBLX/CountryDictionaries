@@ -1,3 +1,8 @@
+--[[
+////// PLEASE NOTE //////
+I might have not listed all of them here, but i'm too lazy to fact check it so... yea, deal with it.
+]]
+
 Countries = {
 	["AD"] = "Andorra",
 	["AE"] = "United Arab Emirates",
