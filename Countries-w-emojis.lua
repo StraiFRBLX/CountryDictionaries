@@ -1,3 +1,9 @@
+--[[
+//// PLEASE NOTE ////
+Not all country emojis are here because unicode artists havent made them yet.
+Thank you for attention.
+]]
+
 Countries = {
 	["AD"] = "Andorra 🇦🇩",
 	["AE"] = "United Arab Emirates 🇦🇪",
