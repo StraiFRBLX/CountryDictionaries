@@ -1,4 +1,4 @@
-local Countries = {
+Countries = {
 	["AD"] = "Andorra",
 	["AE"] = "United Arab Emirates",
 	["AF"] = "Afghanistan",
